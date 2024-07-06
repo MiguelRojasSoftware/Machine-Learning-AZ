@@ -1,0 +1,8 @@
+pandas
+numpy
+pandasgui
+matplotlib
+scikit-learn
+sklearn
+ruff
+
