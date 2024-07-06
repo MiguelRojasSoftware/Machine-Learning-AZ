@@ -3,7 +3,7 @@ Se recomienda la extension CodeTour para poder acceder a los comentarios
 
 ***generar entorno virtual .venv**
 
-´pyhton -m venv .venv´ <--- seleccionar como el interprete **Ctr+Shift+P**
+´python -m venv .venv´ <--- seleccionar como el interprete **Ctr+Shift+P**
 
 Git Bash
 
