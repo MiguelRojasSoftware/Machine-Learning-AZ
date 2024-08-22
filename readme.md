@@ -1,22 +1,31 @@
-***Extensiones***
-Se recomienda la extension CodeTour para poder acceder a los comentarios
 
-***generar entorno virtual .venv**
 
-´python -m venv .venv´ <--- seleccionar como el interprete **Ctr+Shift+P**
+* **generar entorno virtual .venv**
 
-Git Bash
+    ´pyhton -m venv .venv´
 
-***Activar entorno virtual**
+    Seleccionar como el interprete**Ctr+Shift+P**
 
-source .venv/Scripts/activate
+* **Activar entorno virtual**
+
+    source .venv/Scripts/activate
 
 * **Instalacion de requerimientos con**
 
-python -m pip install -r requirements.txt  <--- git bash
+    -m pip install -r requirements.txt
 
+* **Comandos**
 
+    pip list <---- ver dependencias instaladas
 
-***Comandos***
+* **Ejecucion desde la raiz**
 
-pip list <---- ver dependencias instaladas
+    -  python "module_1/data_processing_template.py"
+
+    -  python "module_2/categorical_data.py"
+
+    -  python "module_2/missing_data.py"
+
+    -  python "module_3/another_script.py"
+
+    -  python "module_4/simple_linear_regression.py"
